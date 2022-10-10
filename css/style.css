@@ -1,0 +1,25 @@
+.mycontainer {
+    max-width: 1000px;
+}
+
+.cella {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid black;
+    position: relative;
+}
+
+.contatore {
+    font-size: .7rem;
+    width: 25px;
+    height: 25px;
+    color: black;
+    line-height: 25px;
+    background-color: white;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border-radius: 20px;
+}
